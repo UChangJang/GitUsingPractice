@@ -1,0 +1,15 @@
+th,td{
+	font-family: ¸¼Àº °íµñ;
+	font-size: 9pt;
+}
+th{
+	font-size: 10pt;
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+a:hover{
+	text-decoration: underline;
+	color:#ccccff;
+}
